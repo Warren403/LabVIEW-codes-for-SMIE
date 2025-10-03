@@ -1,4 +1,4 @@
-1.Psi and Delta Mapping_V2.3_RCE P=0_A_45_stokes vertor.vi was the main analyzation for the SMIE                                                
+1.Psi and Delta Mapping_V2.3_RCE P=0_A_45_stokes vector.vi was the main analyzation for the SMIE                                                
 
 <img width="590" height="556" alt="image" src="https://github.com/user-attachments/assets/d70291ba-1557-4a15-81e5-9278bbc3f3c9" />
 
