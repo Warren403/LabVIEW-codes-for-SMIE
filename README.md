@@ -14,7 +14,7 @@ Demo:
  
 <img width="670" height="293" alt="image" src="https://github.com/user-attachments/assets/40b90bc4-05c4-40ab-8504-b422f16eff61" />
 
-One of calibration issues solved by automation: The sample must be located at the center of the orbit defined by the two arms.
+One of calibration issues solved by automation: The wafer sample must be located at the center of the orbit defined by the two arms.
 
 ![1](https://github.com/user-attachments/assets/8d3c1e21-9ece-453e-a51d-84a7767b7e0b)     ![8](https://github.com/user-attachments/assets/ebc7ca49-cccb-4f1d-9c89-fedb2567dcaf)
 
